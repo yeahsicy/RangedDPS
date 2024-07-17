@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <StatDef>
+    <defName>RangedWeapon_OptimalDPS</defName>
+	<workerClass>RangedDPS.StatWorker_OptimalDPS</workerClass>
+    <label>Optimal DPS</label>
+    <description>Optimal DPS for the ranged weapon itself.</description>
+    <category>Weapon_Ranged</category>
+    <defaultBaseValue>0</defaultBaseValue>
+    <minValue>0</minValue>
+    <toStringStyle>FloatTwo</toStringStyle>
+    <forInformationOnly>true</forInformationOnly>
+    <displayPriorityInCategory>5111</displayPriorityInCategory>
+  </StatDef>
+</Defs>
